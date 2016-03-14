@@ -1,0 +1,26 @@
+
+Repeater {
+    border-width: 2;
+    border-style: solid;
+    border-color: red;    
+}
+
+.rectangle {
+    border-width: 2;
+    border-style: solid;
+    border-color: black;
+}
+
+.hit-empty {
+    border-width: 2;
+    border-style: solid;
+    border-color: black;
+    background-color: #034793;
+}
+
+.hit-ship {
+    border-width: 2;
+    border-style: solid;
+    border-color: black;
+    background-color: red;
+}

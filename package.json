@@ -1,0 +1,11 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.Battleship",
+		"tns-android": {
+			"version": "1.6.3"
+		}
+	},
+	"dependencies": {
+		"tns-core-modules": "1.6.2"
+	}
+}

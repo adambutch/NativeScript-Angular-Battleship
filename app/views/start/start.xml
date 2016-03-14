@@ -1,0 +1,11 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded">
+  <StackLayout>
+    <Label text="Welcome on battlefield" class="title"/>
+    
+    <TextField text="" hint="New game name" />
+    <Button text="New game" tap="newGame" />
+    
+    <TextField text="" hint="Name of a game to join" />
+    <Button text="Join game" tap="joinGame" />
+  </StackLayout>
+</Page>
